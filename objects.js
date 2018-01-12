@@ -1,1 +1,1 @@
-var playlist = {1: "Gemini Syndrome\: \"Babylon\""};
+var playlist = {Gemini Syndrome: "\"Babylon\""};
